@@ -1,0 +1,6 @@
+{
+  "name": "FITQON",
+  "description": "Bold, minimal, and high-performance fitness and diet companion with advanced AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
